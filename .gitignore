@@ -1,0 +1,21 @@
+# Python
+__pychache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# Odoo
+foñestpre/
+sessions/
+*.log
+
+# Docker
+.nv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
